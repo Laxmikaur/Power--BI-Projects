@@ -42,8 +42,11 @@ This project showcases an interactive sales dashboard built using Power BI to an
 
 ## 📂 Project Structure
 
-* `images/` → Dashboard screenshot - <a href>>"https://github.com/Laxmikaur/Power--BI-Projects/blob/main/Flipkart%20Sales%20dashboard.png">dashboard view</a>
-* `flipkart-dashboard.pbix` → -<a href>>" https://github.com/Laxmikaur/Power--BI-Projects/blob/main/Flipkart%20Sales%20Dataset.xlsx">dataset view</a>
+* `images/` → Dashboard screenshot
+* [Dashboard View](https://github.com/Laxmikaur/Power--BI-Projects/blob/main/Flipkart%20Sales%20dashboard.png)
+
+* `flipkart dataset
+* [Dataset View](https://github.com/Laxmikaur/Power--BI-Projects/blob/main/Flipkart%20Sales%20Dataset.xlsx)
 
 ---
 
