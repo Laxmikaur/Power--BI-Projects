@@ -26,12 +26,6 @@ This project showcases an interactive sales dashboard built using Power BI to an
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Flipkart Dashboard](images/flipkart-dashboard.png)
-
----
-
 ## 🛠️ Tools Used
 
 * Power BI
